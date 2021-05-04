@@ -9,7 +9,7 @@ const AboutPage = (props) => (
     <SEO title="About me" />
     <Container>
       <h1 className={responsiveTitle1}>Hi, I'm Jenny Ryden</h1>
-      <p>I help service providers get the website they need to build the business of their dreams.</p>
+      <p>I help service professionals get the website they need to build the business of their dreams.</p>
     </Container>
   </Layout>
 );
