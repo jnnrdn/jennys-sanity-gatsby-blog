@@ -4,7 +4,7 @@ import React from "react";
 import SEO from "../components/seo";
 import { responsiveTitle1 } from "../components/typography.module.css";
 
-const AboutPage = (props) => (
+const AboutPage = () => (
   <Layout>
     <SEO title="About me" />
     <Container>
